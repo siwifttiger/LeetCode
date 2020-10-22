@@ -18,5 +18,5 @@ LeetCode
 **不要只传一份代码!!!**
 # 题目
 [1.Hot100](https://github.com/siwifttiger/LeetCode/tree/master/Hot100)  
-[2.LinkedList](https://github.com/siwifttiger/LeetCode/tree/master/LinkedList) 
+[2.LinkedList](https://github.com/siwifttiger/LeetCode/tree/master/LinkedList)  
 [3.TwoPointers](https://github.com/siwifttiger/LeetCode/tree/master/TwoPointers)   
