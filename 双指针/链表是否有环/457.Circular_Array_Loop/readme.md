@@ -4,3 +4,5 @@
 - 对于普通链表，可以以fast == null判断已经遍历到链表尾了。这里是数组，如何判断是否结束了：
     - 如果有环，那么必定有指针相遇的时候，以此为退出条件。
     - 如果无环，那么必定会出现方向不一或者进入值为0的点（数组是有限长的，如果没有环，两个指针不可能一直跑下去）
+
+这种方法空间复杂度O(1)，击败97%。时间复杂度O(n)，击败100%。另外，评论区有个[非常简洁的解法](https://leetcode-cn.com/problems/circular-array-loop/solution/0ms-ctong-shi-nei-cun-zhan-sheng-95-by-noble-monst/)
